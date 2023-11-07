@@ -1,2 +1,2 @@
 # next-tailwind-sass
-A Next.js project from Net Ninja using Tailwind CSS feat. Sass
+A vanilla project from Net Ninja using Tailwind CSS that I convert into Next.js and add Sass
